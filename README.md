@@ -16,5 +16,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/subhankar-sahoo-074028202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhankar-sahoo-074028202" height="30" width="40" /></a>
 <a href="https://instagram.com/sahoo__subha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahoo__subha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subha_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subha_999" height="30" width="40" /></a>
 </p>
