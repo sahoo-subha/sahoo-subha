@@ -1,15 +1,15 @@
 <h1 align="center">Hi👋, I'm Subhankar Sahoo</h1>
-
+<h3  align="center">A passionate Software Developer</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Machine%20Learning%20Enthusiast;Always%20learning%20new%20things...!!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Machine%20Learning%20Enthusiast;Always%20learning%20new%20things...!!!&font=Fira%20Code&center=true&width=440&height=45&color=FAFF00&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahoo-subha&label=Profile%20views&color=0e75b6&style=flat" alt="sahoo-subha" /> </p>
+• 🌱 I’m currently exploring **Web Tools & ML Algorithms** </p>
+• 👯 I’m looking to collaborate on **Full Stack & ML Projects**</p>
+• 💬 Ask me about **Data Structures and Algorithms, Web Dev (MERN), Machine Learning**
 
-- 💬 Ask me about **Data Structures and Algorithms,Web Development,Machine Learning**
-
-- 📫 How to reach me **sahoosubha2020@gmail.com**
+• 📫 You can reach me **sahoosubha2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
