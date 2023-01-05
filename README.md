@@ -7,7 +7,7 @@
 
 • 🌱 I’m currently exploring - **Web Development Tools & Machine Learning Algorithms** </p>
 • 💬 Ask me about - **Data Structures and Algorithms, Web Development (MERN), Machine Learning**
-• 👯 I’m looking to collaborate on - **Full Stack & Machine Learning Projects**</p>
 
+• 👯 I’m looking to collaborate on - **Full Stack & Machine Learning Projects**</p>
 • ⚡ Fun fact - Always forget to commit changes 😅</p>
 • 📫 You can reach me - **sahoosubha2020@gmail.com**
