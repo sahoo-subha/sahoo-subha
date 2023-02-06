@@ -5,8 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Blockchain%20Developer;Machine%20Learning%20Enthusiast;Always%20learning%20new%20things...!!!&font=Fira%20Code&center=true&width=440&height=45&color=FAFF00&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-• 🌱 I’m currently exploring: **Web Development Tools & Blockchain Technology** </p>
-• 💬 Ask me about: **Data Structures and Algorithms, Web Development (MERN), Blockchain Technology**
+• 🌱 I’m currently exploring :--> **Web Development Tools & Blockchain Technology** </p>
+• 💬 Ask me about :--> **Data Structures and Algorithms, Web Development (MERN), Blockchain Technology**
 
-• 👯 I’m looking to collaborate on: **Full Stack & Blockchain Projects**</p>
-• ⚡ Fun fact: **Always forget to commit changes** 😅</p>
+• 👯 I’m looking to collaborate on :--> **Full Stack & Blockchain Projects**</p>
