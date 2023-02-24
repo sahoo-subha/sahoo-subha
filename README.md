@@ -8,4 +8,4 @@
 • 🌱 I’m currently exploring --> **Web Development Tools & Blockchain Technology** </p>
 • 💬 Ask me about --> **Data Structures and Algorithms, Web Development & Blockchain Technology**
 
-• 👯 I’m looking to collaborate on --> **Full Stack & Blockchain Projects**</p>
+• 👯 I’m looking to collaborate on --> **Full Stack(React + Django) & Blockchain Projects**</p>
