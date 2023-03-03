@@ -1,5 +1,7 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"> Hi, I'm Subhankar Sahoo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"></h1>
-<h3  align="center">A Passionate Software Developer</h3>
+<div>
+	<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"> Hi, I'm Subhankar Sahoo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"></h1>
+<!-- 	<h4  align="center" color="00FF00">[A Passionate Software Developer]</h4> -->
+<div/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Blockchain%20Developer;Machine%20Learning%20Enthusiast;Always%20learning%20new%20things...!!!&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&vCenter=true&pause=1000&size=22" /></a>
