@@ -18,4 +18,4 @@
 • 🌱 **I’m currently exploring** **:** `Web Development Tools` `Blockchain Technology` </p>
 • 💬 **Ask me about** **:** `DSA` `Web Development` `Blockchain Technology` `Machine Learning`
 
-• 👯 **I’m looking to collaborate on** **:** `Full Stack Projects` `Blockchain Projects`</p>
+• 👯 **I’m looking to collaborate on** **:** `Full Stack Web Dev Projects` `Blockchain Projects`</p>
