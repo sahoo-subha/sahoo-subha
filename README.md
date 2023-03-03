@@ -14,8 +14,18 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-• 👨‍💻 **Line of thoughts** **:** I Love Coding,debugging,discussing coding problems & methods with other programmers. I am willing to devote my life to solve some of the craziest problems that are arising in the world of technology through extensive study and research on them </p>
+• 👨‍💻 **Line of thoughts** **:** I Love Coding,debugging,discussing coding problems & methods with other programmers. I am willing to devote my life to solve some of the craziest problems that are arising in the world of technology through extensive study and research on them. </p>
 • 🌱 **I’m currently exploring** **:** `Web Development Tools` `Blockchain Technology` </p>
 • 💬 **Ask me about** **:** `DSA` `Web Development` `Blockchain Technology` `Machine Learning`
 
 • 👯 **I’m looking to collaborate on** **:** `Full Stack Web Dev Projects` `Blockchain Projects`</p>
+
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:sahoosubha2020@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/subhankar-sahoo-074028202/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/sahoo__subha/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	
+
+</p>
