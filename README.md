@@ -32,7 +32,6 @@
 	<a href="https://www.instagram.com/sahoo__subha/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=3%> Programming Languages
@@ -55,7 +54,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://soliditylang.org/" target="_blank"> 
      <img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%23F7DF1E.svg?style=plastic&logo=solidity&logoColor=black">
    </a>
 <!--   &emsp;
@@ -65,4 +64,46 @@
   &emsp; 
 </p>
 
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%2361DAFB.svg?style=plastic&logo=Bootstrap&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-%2361DAFB.svg?style=plastic&logo=Tailwindcss&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://jquery.com/" target="_blank"> 
+     <img alt="Jquery" src="https://img.shields.io/badge/Jquery%20-%23F7DF1E.svg?style=plastic&logo=jquery&logoColor=black">
+  </a>
+ &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+  </a>
+</p>
 
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+   <img alt="Django" src="https://img.shields.io/badge/Django%20-%23E34F26.svg?style=plastic&logo=Django&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="nodejs" src="https://img.shields.io/badge/Node.js%20-%231572B6.svg?style=plastic&logo=Node.js&logoColor=white">
+  </a>
+</p>
