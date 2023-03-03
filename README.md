@@ -106,4 +106,27 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js%20-%231572B6.svg?style=plastic&logo=Node.js&logoColor=white">
   </a>
+ &emsp;
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img alt="Mysql" src="https://img.shields.io/badge/Mysql%20-%231572B6.svg?style=plastic&logo=Mysql&logoColor=white">
+  </a>
+ &emsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb%20-%231572B6.svg?style=plastic&logo=Mongodb&logoColor=white">
+  </a>
+</p>
+
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Sourcetree" src="https://img.shields.io/badge/sourcetree-%23181717.svg?style=plastic&logo=sourcetree&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%23181717.svg?style=plastic&logo=bitbucket&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
 </p>
