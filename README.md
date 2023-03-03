@@ -128,5 +128,9 @@
   &emsp;
     <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%23181717.svg?style=plastic&logo=bitbucket&logoColor=white"></a>
   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/GNU Octave-%23008080.svg?&style=plastic&logo=octave&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Postman-%23008080.svg?&style=plastic&logo=postman&logoColor=white" /></a>
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
 </p>
