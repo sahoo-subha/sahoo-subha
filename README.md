@@ -26,7 +26,9 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:sahoosubha2020@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/subhankar-sahoo-074028202/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	&emsp;
 	<a href="https://www.instagram.com/sahoo__subha/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
@@ -36,11 +38,11 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=3%> Programming Languages
 
 <p align="center"> 
-  &emsp; 
+<!--   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
-  &emsp;
+  &emsp; -->
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
