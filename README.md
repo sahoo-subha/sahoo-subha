@@ -98,19 +98,11 @@
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Backend Development
 <p align="center">
- &emsp;
- <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
  &emsp; 
   <a href="https://www.djangoproject.com/" target="_blank"> 
    <img alt="Django" src="https://img.shields.io/badge/Django%20-%23E34F26.svg?style=plastic&logo=Django&logoColor=white">
   </a>
  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js%20-%231572B6.svg?style=plastic&logo=Node.js&logoColor=white">
   </a>
