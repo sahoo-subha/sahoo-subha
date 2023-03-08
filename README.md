@@ -137,23 +137,6 @@
     <a href="#"><img src="https://img.shields.io/badge/GNU Octave-%23008080.svg?&style=plastic&logo=octave&logoColor=white" /></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime-text%2366595C.svg?&style=plastic&logo=sublime-text&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Remix" src="https://img.shields.io/badge/remix-%23000000.svg?style=plastic&logo=remix&logoColor=white" /></a>
-</p>
-
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
  
 <p align="center">
