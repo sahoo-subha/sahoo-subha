@@ -16,7 +16,7 @@
 
 • 👨‍💻 **Line of thoughts** **:** I Love Coding,debugging,discussing coding problems & methods with other programmers. I am willing to devote my life to solve some of the craziest problems that are arising in the world of technology through extensive study and research on them. </p>
 • 🌱 **I’m currently exploring** **:** `Web Development Tools` `Blockchain Technology` </p>
-• 💬 **Ask me about** **:** `DSA` `Web Development` `Blockchain Technology` `Machine Learning`
+• 💬 **Ask me about** **:** `DSA` `Web Development` `Blockchain Technology`
 
 • 👯 **I’m looking to collaborate on** **:** `Full Stack Web Dev Projects` `Blockchain Projects`</p>
 • 🌐 **Visit my website** **:** [Click Here](https://subhankar-sahoo-portfolio.netlify.app/)</p>
