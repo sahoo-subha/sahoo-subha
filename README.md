@@ -116,27 +116,6 @@
   </a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Postman-%23008080.svg?&style=plastic&logo=postman&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Sourcetree" src="https://img.shields.io/badge/sourcetree-%23181717.svg?style=plastic&logo=sourcetree&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="webpack" src="https://img.shields.io/badge/webpack-%23181717.svg?style=plastic&logo=webpack&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%23181717.svg?style=plastic&logo=bitbucket&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23F05033.svg?style=plastic&logo=npm&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/GNU Octave-%23008080.svg?&style=plastic&logo=octave&logoColor=white" /></a>
-</p>
-
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
  
 <p align="center">
