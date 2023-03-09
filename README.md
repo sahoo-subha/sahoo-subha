@@ -94,6 +94,10 @@
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-%2361DAFB.svg?style=plastic&logo=redux&logoColor=white">
+  </a>
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Backend Development
@@ -105,6 +109,10 @@
  &emsp;
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js%20-%231572B6.svg?style=plastic&logo=Node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%231572B6.svg?style=plastic&logo=express.js&logoColor=white">
   </a>
  &emsp;
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
