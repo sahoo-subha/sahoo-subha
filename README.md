@@ -86,16 +86,8 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
   &emsp;
-  <a href="https://jquery.com/" target="_blank"> 
-     <img alt="Jquery" src="https://img.shields.io/badge/Jquery%20-%23F7DF1E.svg?style=plastic&logo=jquery&logoColor=black">
-  </a>
- &emsp;
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-%2361DAFB.svg?style=plastic&logo=redux&logoColor=white">
   </a>
 </p>
 
@@ -110,10 +102,6 @@
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js%20-%231572B6.svg?style=plastic&logo=Node.js&logoColor=white">
   </a>
   &emsp;
-  <a href="https://expressjs.com/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%231572B6.svg?style=plastic&logo=express.js&logoColor=white">
-  </a>
- &emsp;
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
     <img alt="Mysql" src="https://img.shields.io/badge/Mysql%20-%231572B6.svg?style=plastic&logo=Mysql&logoColor=white">
   </a>
