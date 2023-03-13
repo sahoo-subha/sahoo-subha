@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"> <strong> Hi, I'm Subhankar Sahoo </strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"></h1>
-<h3  align="center" style="text:bold"> 💡 <strong> A Passionate Software Developer </strong> 💡 </h3>
+<h3  align="center" style="text:bold"><strong> A Passionate Software Developer </strong></h3>
 	
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
